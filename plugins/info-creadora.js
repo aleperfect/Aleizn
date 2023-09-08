@@ -4,7 +4,7 @@ let pp = gataImg.getRandom()
 const cat = `𝙂𝙖𝙩𝙖𝘽𝙤𝙩-𝙈𝘿 💖🐈
 *Wa.me/51906830557*
 
-aleizn
+QUE CHUCHA ME MIRAS NEGRO KBRO
 *${asistencia}*`
 
 await conn.sendFile(m.chat, pp, 'gata.mp4', cat, fkontak)
